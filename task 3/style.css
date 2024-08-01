@@ -7,7 +7,8 @@ body {
 
 header {
 	background-color: #333;
-	color: #f8f2f2;
+	color: #0e45ea;
+	font-weight: bold;
 	text-align: center;
 	padding: 1rem;
 }
@@ -34,7 +35,7 @@ nav ul li a:hover {
 section {
 	padding: 2em;
 	margin: 1em;
-	background-color:rgb(238, 220, 198);
+	background-color:rgb(177, 230, 159);
 	border-radius: 5px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
 	transition: transform 0.3s ease;
@@ -109,26 +110,7 @@ h2 {
 .resume a:hover {
 	background-color: #555;
 }
-/* form {
-	display: flex;
-	flex-direction: column;
-}
-input, textarea {
-	margin-bottom: 1em;
-	padding: 0.5em;
-}
-button {
-	background-color: #333;
-	color: white;
-	border: none;
-	margin-bottom: 10px;
-	padding: 0.5em 1em;
-	cursor: pointer;
-	transition: background-color 0.3s ease;
-}
-button:hover {
-	background-color: #555;
-} */
+
 footer {
     background-color: #333;
     color: white;
